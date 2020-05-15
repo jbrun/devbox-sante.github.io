@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>expertise on </title>
+    <link>./categories/expertise/</link>
+    <description>Recent content in expertise on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    
+	<atom:link href="./categories/expertise/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Optim&#39;Care</title>
+      <link>./expertises/expertise1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>./expertises/expertise1/</guid>
+      <description>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean lacinia bibendum nulla sed consectetur. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nullam quis risus eget urna mollis ornare vel eu leo. Vestibulum id ligula porta felis euismod semper. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</description>
+    </item>
+    
+    <item>
+      <title>XDiet</title>
+      <link>./expertises/expertise2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>./expertises/expertise2/</guid>
+      <description>Contenu de l&amp;rsquo;expertise.
+Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean lacinia bibendum nulla sed consectetur. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nullam quis risus eget urna mollis ornare vel eu leo. Vestibulum id ligula porta felis euismod semper. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</description>
+    </item>
+    
+    <item>
+      <title>XDiet</title>
+      <link>./expertises/expertise3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>./expertises/expertise3/</guid>
+      <description>Contenu de l&amp;rsquo;expertise. h Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean lacinia bibendum nulla sed consectetur. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nullam quis risus eget urna mollis ornare vel eu leo. Vestibulum id ligula porta felis euismod semper. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</description>
+    </item>
+    
+  </channel>
+</rss>

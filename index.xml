@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DevBox_santé on </title>
+    <link>./</link>
+    <description>Recent content in DevBox_santé on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    
+	<atom:link href="./index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>./testimonials/ema-cyril-job/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>./testimonials/ema-cyril-job/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contactez DEVCOOP Consulting</title>
+      <link>./contact/devcoop/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>./contact/devcoop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DMPC-API</title>
+      <link>./connecteurs/dmpc-api/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>./connecteurs/dmpc-api/</guid>
+      <description>La DMPC-API est un connecteur EAI permettant la connexion avec le DMP. Elle facilite aux éditeurs de logiciel de santé l&amp;rsquo;intéropérabilité avec le DMP.
+La force de cette API est dans la simplicité de sa mise en oeuvre, mais aussi dans ses briques applicatives utilisées.
+ Trois manières différentes d&amp;rsquo;intégrer la DMPC-API :
+ Embedded : directement dans vos modules SpringBoot Java. ProxyWS : via des WebServices SOAP ProxyRest : via une api REST    Deux manières différentes de s&amp;rsquo;authentifier :</description>
+    </item>
+    
+    <item>
+      <title>Document structurés</title>
+      <link>./composants/documents-structures/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>./composants/documents-structures/</guid>
+      <description>Partager des documents entre soignants au travers du DMP, c&amp;rsquo;est bien. Partager ces mêmes données au travers de documents structurés, permet une meilleure interopérabilité entre les systèmes. La gestion de documents structurés au sein de notre DMPC-API, permet le partage de Compte Rendus Biologiques :  Volet CR-BIO – Compte-rendu d&amp;rsquo;examens de biologie médicale  Plus d&amp;rsquo;information sur la documentation de la DMPC-API -
+Devcoop s&amp;rsquo;engage à développer d&amp;rsquo;autres volets du cadre d&amp;rsquo;intéropérabilité selon vos besoins, comme par exemple les volets suivants :  Volet VSM – Synthèse médicale Volet CSE – Certificats de Santé de l&amp;rsquo;Enfant Volet F-PRC – Fiches Patient à risque en cardiologie  </description>
+    </item>
+    
+    <item>
+      <title>L&#39;Annuaire Santé</title>
+      <link>./composants/annuaire-sante/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>./composants/annuaire-sante/</guid>
+      <description>Rechercher un professionnel de santé selon son nom, sa spécialité, son adresse mais aussi sa géolocalisation. La mise en place de cette annuaire peut être long et fastidieux.
+Nous vous proposons clé en main cet annuaire indexé accessible par une API REST.
+Cet annuaire géolocalisé intègre plusieurs source de données, notamment :
+ le Répertoire Partagé des Professionnels de Santé (RPPS) le Répertoire des établissements (FINESS) la base Adresse Nationale  Vous êtes intéressé par l&amp;rsquo;intégration de cet annuaire Contactez-nous</description>
+    </item>
+    
+    <item>
+      <title>L&#39;api CPS</title>
+      <link>./composants/cps/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>./composants/cps/</guid>
+      <description>L&amp;rsquo;api CPS proposée par DEVCOOP au travers d&amp;rsquo;une API Java ou REST, vous laisse accéder à l&amp;rsquo;ensemble des possibilités de la carte CPS3.
+L&amp;rsquo;API-CPS permet notamment :
+ d&amp;rsquo;authentifier un utilisateur de gérer les différents lecteurs de carte et cartes disponibles sur le poste de travail de gérer l&#39;état des lecteurs (carte arrachée) d&amp;rsquo;accéder à l&amp;rsquo;ensemble des métadonnées de la carte CPS 3 comme les données d&amp;rsquo;identifications de la carte, du porteur de la carte, la liste des situations d&amp;rsquo;exercice.</description>
+    </item>
+    
+    <item>
+      <title>L&#39;api Sesam Vitale</title>
+      <link>./composants/sesam-vitale/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>./composants/sesam-vitale/</guid>
+      <description>Comme pour l&amp;rsquo;api CPS l&amp;rsquo;objectif de DEVCOOP est de vous fournir une API java ou REST, vous permettant d&amp;rsquo;accéder à l&amp;rsquo;ensemble des fonctionnalités de la carte vitale.
+Vous êtes intéressé par le développement de ce connecteur Contactez-nous</description>
+    </item>
+    
+    <item>
+      <title>Mentions légales</title>
+      <link>./mentions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>./mentions/</guid>
+      <description>Informations légales :   Raison sociale : DEVCOOP Consulting
+  Forme juridique : SCOP SARL
+  Numéro de SIRET : 51786565500024
+  Adresse : 228 avenue de Cadaujac 33850 Léognan
+  Capital social : 19 920 €
+  Téléphone : 0360455713
+  Email : contact@devcoop.fr
+  Site Web : www.devbox-sante.fr
+  Responsable publication : DEVCOOP Consulting
+  Conditions générales d&amp;rsquo;utilisation du site et des services proposés.</description>
+    </item>
+    
+    <item>
+      <title>MS Santé</title>
+      <link>./connecteurs/ms-sante/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>./connecteurs/ms-sante/</guid>
+      <description>La MSSanté, Messagerie sécurisées de santé, est un espace de confiance au sein duquel les professionnels de santé, en ville comme à l&amp;rsquo;hôpital peuvent s&#39;échanger par mail des données de santé.
+La MSSanté réunit un ensemble d&amp;rsquo;opérateurs de messageries qui respectent les exigences de sécurité et d&amp;rsquo;intéropérabilité définie par l&amp;rsquo;ANS.
+Cet espaces de confiance sécurisé comprend :
+ un annuaire national MSSanté des professionnels une liste blanche des opérateurs  L&amp;rsquo;objectif de DEVCOOP est connecteur vous permettant d&amp;rsquo;accéder facilement à ce Téléservice.</description>
+    </item>
+    
+    <item>
+      <title>Optim&#39;Care</title>
+      <link>./expertises/expertise1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>./expertises/expertise1/</guid>
+      <description>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean lacinia bibendum nulla sed consectetur. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nullam quis risus eget urna mollis ornare vel eu leo. Vestibulum id ligula porta felis euismod semper. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</description>
+    </item>
+    
+    <item>
+      <title>Puis je souscrire à une licence d&#39;un seul composant ?</title>
+      <link>./faq/question_licence_composant/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>./faq/question_licence_composant/</guid>
+      <description>Oui, vous pouvez acheter pour votre société le composant qui vous intéresse.</description>
+    </item>
+    
+    <item>
+      <title>Quelle type de licence d&#39;utilisation de logiciel, proposez-vous ?</title>
+      <link>./faq/question_licence_type/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>./faq/question_licence_type/</guid>
+      <description>Nos composants et connecteurs sont des briques embarquées dans vos solutions. Vous êtes libre de les intégrer comme vous le souhaitez. La licence est donc globale à la personne morale.</description>
+    </item>
+    
+    <item>
+      <title>Quelles prestations proposez-vous ?</title>
+      <link>./faq/question_offres_prestations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>./faq/question_offres_prestations/</guid>
+      <description>Les prestations proposées par DEVCOOP sont :
+ L&amp;rsquo;accompagnement auprés du CNDA pour l&amp;rsquo;homologation de votre solution Des développements spécifiques pour l&amp;rsquo;intégration dans votre solution technique de nos composants. De l&amp;rsquo;assistance technique pour le développement de vos propres solutions.  </description>
+    </item>
+    
+    <item>
+      <title>Téléservice INS</title>
+      <link>./connecteurs/teleservice-ins/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>./connecteurs/teleservice-ins/</guid>
+      <description>L&amp;rsquo;INS est l&amp;rsquo;identifiant national de santé permettant de référencer les données de Santé : NIR ou NIA
+ NIR : Numéro d&amp;rsquo;inscription au répertoire national des personnes physiques NIA : Numéro d&amp;rsquo;identifiant en attente.  Le téléservice INSpropose deux opérations
+  Récupérer l&amp;rsquo;INS et des traits d&amp;rsquo;identité de l&#39;état civil. Utile dans le cadre d&amp;rsquo;une prise en charge d&amp;rsquo;un patient par un professionnel de santé par lecture de la carte vitale ou par défaut les informations connues du système de santé (janvier 2020).</description>
+    </item>
+    
+    <item>
+      <title>XDiet</title>
+      <link>./expertises/expertise2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>./expertises/expertise2/</guid>
+      <description>Contenu de l&amp;rsquo;expertise.
+Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean lacinia bibendum nulla sed consectetur. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nullam quis risus eget urna mollis ornare vel eu leo. Vestibulum id ligula porta felis euismod semper. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</description>
+    </item>
+    
+    <item>
+      <title>XDiet</title>
+      <link>./expertises/expertise3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>./expertises/expertise3/</guid>
+      <description>Contenu de l&amp;rsquo;expertise. h Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean lacinia bibendum nulla sed consectetur. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nullam quis risus eget urna mollis ornare vel eu leo. Vestibulum id ligula porta felis euismod semper. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</description>
+    </item>
+    
+  </channel>
+</rss>

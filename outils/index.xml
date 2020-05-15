@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Outils on </title>
+    <link>./outils/</link>
+    <description>Recent content in Outils on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    
+	<atom:link href="./outils/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Document structurés</title>
+      <link>./outils/documents-structures/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>./outils/documents-structures/</guid>
+      <description>L&amp;rsquo;API Document Structurés Rest &amp;hellip;..</description>
+    </item>
+    
+    <item>
+      <title>L&#39;Annuaire Santé</title>
+      <link>./outils/annuaire-sante/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>./outils/annuaire-sante/</guid>
+      <description>L&amp;rsquo;API Annuaire Santé Rest &amp;hellip;..</description>
+    </item>
+    
+    <item>
+      <title>L&#39;api CPS</title>
+      <link>./outils/cps/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>./outils/cps/</guid>
+      <description>L&amp;rsquo;API CPS Rest &amp;hellip;..</description>
+    </item>
+    
+    <item>
+      <title>L&#39;api Sesam Vitale</title>
+      <link>./outils/sesam-vitale/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>./outils/sesam-vitale/</guid>
+      <description>L&amp;rsquo;API Sesam Vitale Rest &amp;hellip;..</description>
+    </item>
+    
+  </channel>
+</rss>
