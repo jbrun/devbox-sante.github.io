@@ -1,14 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>DevBox_santé on </title>
+    <title>DevBox_santé on DevBox _santé</title>
     <link>./</link>
-    <description>Recent content in DevBox_santé on </description>
+    <description>Recent content in DevBox_santé on DevBox _santé</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     
 	<atom:link href="./index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Optim&#39;Care</title>
+      <link>./expertises/optimcare/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>./expertises/optimcare/</guid>
+      <description>Optim’Care développe une plateforme unique, évolutive et sur-mesure intégrant différentes solutions de e-santé pour les patients transplantés et les professionnels de santé impliqués dans leur suivi.
+Nous avons été sollicité pour réaliser cette plateforme de santé qui est accessible via des applications mobiles et web.</description>
+    </item>
     
     <item>
       <title></title>
@@ -20,12 +30,36 @@
     </item>
     
     <item>
-      <title>Contactez DEVCOOP Consulting</title>
-      <link>./contact/devcoop/</link>
+      <title>Annuaire Santé</title>
+      <link>./composants/annuaire-sante/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>./contact/devcoop/</guid>
-      <description></description>
+      <guid>./composants/annuaire-sante/</guid>
+      <description>Rechercher un professionnel de santé selon son nom, sa spécialité, son adresse mais aussi sa géolocalisation. La mise en place de cette annuaire peut être longue et fastidieuse.
+Nous vous proposons clé en main cet annuaire indexé accessible par une API REST.
+Cet annuaire géolocalisé intègre plusieurs source de données, notamment :
+ le Répertoire Partagé des Professionnels de Santé (RPPS) le Répertoire des établissements (FINESS) la base Adresse Nationale  Vous êtes intéressé par l&amp;rsquo;intégration de cet annuaire Contactez-nous</description>
+    </item>
+    
+    <item>
+      <title>Api CPS</title>
+      <link>./composants/cps/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>./composants/cps/</guid>
+      <description>L&amp;rsquo;api CPS proposée par DEVCOOP au travers d&amp;rsquo;une API Java ou REST, vous laisse accéder à l&amp;rsquo;ensemble des possibilités de la carte CPS3.
+L&amp;rsquo;API-CPS permet notamment :
+ d&amp;rsquo;authentifier un utilisateur de gérer les différents lecteurs de carte et cartes disponibles sur le poste de travail de gérer l&#39;état des lecteurs (carte arrachée) d&amp;rsquo;accéder à l&amp;rsquo;ensemble des métadonnées de la carte CPS 3 comme les données d&amp;rsquo;identifications de la carte, du porteur de la carte, la liste des situations d&amp;rsquo;exercice.</description>
+    </item>
+    
+    <item>
+      <title>Api SESAM Vitale</title>
+      <link>./composants/sesam-vitale/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>./composants/sesam-vitale/</guid>
+      <description>Comme pour l&amp;rsquo;api CPS l&amp;rsquo;objectif de DEVCOOP est de vous fournir une API java ou REST, vous permettant d&amp;rsquo;accéder à l&amp;rsquo;ensemble des fonctionnalités de la carte vitale.
+Vous êtes intéressé par le développement de ce connecteur Contactez-nous</description>
     </item>
     
     <item>
@@ -41,6 +75,16 @@ La force de cette API est dans la simplicité de sa mise en oeuvre, mais aussi d
     </item>
     
     <item>
+      <title>Docavenue</title>
+      <link>./expertises/docavenue/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>./expertises/docavenue/</guid>
+      <description>Avec Docavenue, Cegedim combine son savoir-faire dans les outils digitaux et son expertise de la santé pour proposer une plateforme de services médicaux. Elle connecte directement le patient à l’agenda du professionnel de santé choisi.
+Nous avons participez à la réalisation des applications web et mobile avec notamment la prise de rendez-vous, la téléconsultation, la gestion d&amp;rsquo;agenda et la recherche de praticien géolocalisé.</description>
+    </item>
+    
+    <item>
       <title>Document structurés</title>
       <link>./composants/documents-structures/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -48,39 +92,6 @@ La force de cette API est dans la simplicité de sa mise en oeuvre, mais aussi d
       <guid>./composants/documents-structures/</guid>
       <description>Partager des documents entre soignants au travers du DMP, c&amp;rsquo;est bien. Partager ces mêmes données au travers de documents structurés, permet une meilleure interopérabilité entre les systèmes. La gestion de documents structurés au sein de notre DMPC-API, permet le partage de Compte Rendus Biologiques :  Volet CR-BIO – Compte-rendu d&amp;rsquo;examens de biologie médicale  Plus d&amp;rsquo;information sur la documentation de la DMPC-API -
 Devcoop s&amp;rsquo;engage à développer d&amp;rsquo;autres volets du cadre d&amp;rsquo;intéropérabilité selon vos besoins, comme par exemple les volets suivants :  Volet VSM – Synthèse médicale Volet CSE – Certificats de Santé de l&amp;rsquo;Enfant Volet F-PRC – Fiches Patient à risque en cardiologie  </description>
-    </item>
-    
-    <item>
-      <title>L&#39;Annuaire Santé</title>
-      <link>./composants/annuaire-sante/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>./composants/annuaire-sante/</guid>
-      <description>Rechercher un professionnel de santé selon son nom, sa spécialité, son adresse mais aussi sa géolocalisation. La mise en place de cette annuaire peut être long et fastidieux.
-Nous vous proposons clé en main cet annuaire indexé accessible par une API REST.
-Cet annuaire géolocalisé intègre plusieurs source de données, notamment :
- le Répertoire Partagé des Professionnels de Santé (RPPS) le Répertoire des établissements (FINESS) la base Adresse Nationale  Vous êtes intéressé par l&amp;rsquo;intégration de cet annuaire Contactez-nous</description>
-    </item>
-    
-    <item>
-      <title>L&#39;api CPS</title>
-      <link>./composants/cps/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>./composants/cps/</guid>
-      <description>L&amp;rsquo;api CPS proposée par DEVCOOP au travers d&amp;rsquo;une API Java ou REST, vous laisse accéder à l&amp;rsquo;ensemble des possibilités de la carte CPS3.
-L&amp;rsquo;API-CPS permet notamment :
- d&amp;rsquo;authentifier un utilisateur de gérer les différents lecteurs de carte et cartes disponibles sur le poste de travail de gérer l&#39;état des lecteurs (carte arrachée) d&amp;rsquo;accéder à l&amp;rsquo;ensemble des métadonnées de la carte CPS 3 comme les données d&amp;rsquo;identifications de la carte, du porteur de la carte, la liste des situations d&amp;rsquo;exercice.</description>
-    </item>
-    
-    <item>
-      <title>L&#39;api Sesam Vitale</title>
-      <link>./composants/sesam-vitale/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>./composants/sesam-vitale/</guid>
-      <description>Comme pour l&amp;rsquo;api CPS l&amp;rsquo;objectif de DEVCOOP est de vous fournir une API java ou REST, vous permettant d&amp;rsquo;accéder à l&amp;rsquo;ensemble des fonctionnalités de la carte vitale.
-Vous êtes intéressé par le développement de ce connecteur Contactez-nous</description>
     </item>
     
     <item>
@@ -114,12 +125,13 @@ Cet espaces de confiance sécurisé comprend :
     </item>
     
     <item>
-      <title>Optim&#39;Care</title>
-      <link>./expertises/expertise1/</link>
+      <title>Prescription et administration de médicaments</title>
+      <link>./expertises/agfa/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>./expertises/expertise1/</guid>
-      <description>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean lacinia bibendum nulla sed consectetur. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nullam quis risus eget urna mollis ornare vel eu leo. Vestibulum id ligula porta felis euismod semper. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</description>
+      <guid>./expertises/agfa/</guid>
+      <description>Réalisation d&amp;rsquo;une application mobile et web pour la prescription et l&amp;rsquo;administration de médicaments.
+Intégration d&amp;rsquo;une base médicamenteuse.</description>
     </item>
     
     <item>
@@ -163,21 +175,11 @@ Cet espaces de confiance sécurisé comprend :
     
     <item>
       <title>XDiet</title>
-      <link>./expertises/expertise2/</link>
+      <link>./expertises/xdiet/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>./expertises/expertise2/</guid>
-      <description>Contenu de l&amp;rsquo;expertise.
-Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean lacinia bibendum nulla sed consectetur. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nullam quis risus eget urna mollis ornare vel eu leo. Vestibulum id ligula porta felis euismod semper. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</description>
-    </item>
-    
-    <item>
-      <title>XDiet</title>
-      <link>./expertises/expertise3/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>./expertises/expertise3/</guid>
-      <description>Contenu de l&amp;rsquo;expertise. h Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean lacinia bibendum nulla sed consectetur. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nullam quis risus eget urna mollis ornare vel eu leo. Vestibulum id ligula porta felis euismod semper. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</description>
+      <guid>./expertises/xdiet/</guid>
+      <description>Réalisation d&amp;rsquo;une application mobile de conseil et suivi en alimentation et diététique.</description>
     </item>
     
   </channel>

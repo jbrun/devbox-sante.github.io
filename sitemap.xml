@@ -3,7 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>./expertises/optimcare/</loc>
+  </url>
+  
+  <url>
     <loc>./testimonials/ema-cyril-job/</loc>
+  </url>
+  
+  <url>
+    <loc>./composants/annuaire-sante/</loc>
+  </url>
+  
+  <url>
+    <loc>./composants/cps/</loc>
+  </url>
+  
+  <url>
+    <loc>./composants/sesam-vitale/</loc>
   </url>
   
   <url>
@@ -27,10 +43,6 @@
   </url>
   
   <url>
-    <loc>./contact/devcoop/</loc>
-  </url>
-  
-  <url>
     <loc>./contact/</loc>
   </url>
   
@@ -43,6 +55,10 @@
   </url>
   
   <url>
+    <loc>./expertises/docavenue/</loc>
+  </url>
+  
+  <url>
     <loc>./composants/documents-structures/</loc>
   </url>
   
@@ -51,23 +67,7 @@
   </url>
   
   <url>
-    <loc>./expertises/</loc>
-  </url>
-  
-  <url>
     <loc>./faq/</loc>
-  </url>
-  
-  <url>
-    <loc>./composants/annuaire-sante/</loc>
-  </url>
-  
-  <url>
-    <loc>./composants/cps/</loc>
-  </url>
-  
-  <url>
-    <loc>./composants/sesam-vitale/</loc>
   </url>
   
   <url>
@@ -79,7 +79,11 @@
   </url>
   
   <url>
-    <loc>./expertises/expertise1/</loc>
+    <loc>./expertises/</loc>
+  </url>
+  
+  <url>
+    <loc>./expertises/agfa/</loc>
   </url>
   
   <url>
@@ -115,11 +119,7 @@
   </url>
   
   <url>
-    <loc>./expertises/expertise2/</loc>
-  </url>
-  
-  <url>
-    <loc>./expertises/expertise3/</loc>
+    <loc>./expertises/xdiet/</loc>
   </url>
   
 </urlset>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>composant on </title>
+    <title>composant on DevBox _santé</title>
     <link>./categories/composant/</link>
-    <description>Recent content in composant on </description>
+    <description>Recent content in composant on DevBox _santé</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     
@@ -11,29 +11,19 @@
     
     
     <item>
-      <title>Document structurés</title>
-      <link>./composants/documents-structures/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>./composants/documents-structures/</guid>
-      <description>Partager des documents entre soignants au travers du DMP, c&amp;rsquo;est bien. Partager ces mêmes données au travers de documents structurés, permet une meilleure interopérabilité entre les systèmes. La gestion de documents structurés au sein de notre DMPC-API, permet le partage de Compte Rendus Biologiques :  Volet CR-BIO – Compte-rendu d&amp;rsquo;examens de biologie médicale  Plus d&amp;rsquo;information sur la documentation de la DMPC-API -
-Devcoop s&amp;rsquo;engage à développer d&amp;rsquo;autres volets du cadre d&amp;rsquo;intéropérabilité selon vos besoins, comme par exemple les volets suivants :  Volet VSM – Synthèse médicale Volet CSE – Certificats de Santé de l&amp;rsquo;Enfant Volet F-PRC – Fiches Patient à risque en cardiologie  </description>
-    </item>
-    
-    <item>
-      <title>L&#39;Annuaire Santé</title>
+      <title>Annuaire Santé</title>
       <link>./composants/annuaire-sante/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>./composants/annuaire-sante/</guid>
-      <description>Rechercher un professionnel de santé selon son nom, sa spécialité, son adresse mais aussi sa géolocalisation. La mise en place de cette annuaire peut être long et fastidieux.
+      <description>Rechercher un professionnel de santé selon son nom, sa spécialité, son adresse mais aussi sa géolocalisation. La mise en place de cette annuaire peut être longue et fastidieuse.
 Nous vous proposons clé en main cet annuaire indexé accessible par une API REST.
 Cet annuaire géolocalisé intègre plusieurs source de données, notamment :
  le Répertoire Partagé des Professionnels de Santé (RPPS) le Répertoire des établissements (FINESS) la base Adresse Nationale  Vous êtes intéressé par l&amp;rsquo;intégration de cet annuaire Contactez-nous</description>
     </item>
     
     <item>
-      <title>L&#39;api CPS</title>
+      <title>Api CPS</title>
       <link>./composants/cps/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -44,13 +34,23 @@ L&amp;rsquo;API-CPS permet notamment :
     </item>
     
     <item>
-      <title>L&#39;api Sesam Vitale</title>
+      <title>Api SESAM Vitale</title>
       <link>./composants/sesam-vitale/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>./composants/sesam-vitale/</guid>
       <description>Comme pour l&amp;rsquo;api CPS l&amp;rsquo;objectif de DEVCOOP est de vous fournir une API java ou REST, vous permettant d&amp;rsquo;accéder à l&amp;rsquo;ensemble des fonctionnalités de la carte vitale.
 Vous êtes intéressé par le développement de ce connecteur Contactez-nous</description>
+    </item>
+    
+    <item>
+      <title>Document structurés</title>
+      <link>./composants/documents-structures/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>./composants/documents-structures/</guid>
+      <description>Partager des documents entre soignants au travers du DMP, c&amp;rsquo;est bien. Partager ces mêmes données au travers de documents structurés, permet une meilleure interopérabilité entre les systèmes. La gestion de documents structurés au sein de notre DMPC-API, permet le partage de Compte Rendus Biologiques :  Volet CR-BIO – Compte-rendu d&amp;rsquo;examens de biologie médicale  Plus d&amp;rsquo;information sur la documentation de la DMPC-API -
+Devcoop s&amp;rsquo;engage à développer d&amp;rsquo;autres volets du cadre d&amp;rsquo;intéropérabilité selon vos besoins, comme par exemple les volets suivants :  Volet VSM – Synthèse médicale Volet CSE – Certificats de Santé de l&amp;rsquo;Enfant Volet F-PRC – Fiches Patient à risque en cardiologie  </description>
     </item>
     
   </channel>

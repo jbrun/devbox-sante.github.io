@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>reference on </title>
+    <title>reference on DevBox _santé</title>
     <link>./categories/reference/</link>
-    <description>Recent content in reference on </description>
+    <description>Recent content in reference on DevBox _santé</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     
@@ -12,20 +12,22 @@
     
     <item>
       <title>Optim&#39;Care</title>
-      <link>./expertises/expertise1/</link>
+      <link>./expertises/optimcare/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>./expertises/expertise1/</guid>
-      <description>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean lacinia bibendum nulla sed consectetur. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nullam quis risus eget urna mollis ornare vel eu leo. Vestibulum id ligula porta felis euismod semper. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</description>
+      <guid>./expertises/optimcare/</guid>
+      <description>Optim’Care développe une plateforme unique, évolutive et sur-mesure intégrant différentes solutions de e-santé pour les patients transplantés et les professionnels de santé impliqués dans leur suivi.
+Nous avons été sollicité pour réaliser cette plateforme de santé qui est accessible via des applications mobiles et web.</description>
     </item>
     
     <item>
-      <title>XDiet</title>
-      <link>./expertises/expertise3/</link>
+      <title>Prescription et administration de médicaments</title>
+      <link>./expertises/agfa/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>./expertises/expertise3/</guid>
-      <description>Contenu de l&amp;rsquo;expertise. h Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean lacinia bibendum nulla sed consectetur. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nullam quis risus eget urna mollis ornare vel eu leo. Vestibulum id ligula porta felis euismod semper. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</description>
+      <guid>./expertises/agfa/</guid>
+      <description>Réalisation d&amp;rsquo;une application mobile et web pour la prescription et l&amp;rsquo;administration de médicaments.
+Intégration d&amp;rsquo;une base médicamenteuse.</description>
     </item>
     
   </channel>
