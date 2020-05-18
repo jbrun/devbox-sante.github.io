@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>DevBox_santé on DevBox _santé</title>
-    <link>/</link>
+    <link>./</link>
     <description>Recent content in DevBox_santé on DevBox _santé</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="./index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Optim&#39;Care</title>
-      <link>/expertises/optimcare/</link>
+      <link>./expertises/optimcare/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/expertises/optimcare/</guid>
+      <guid>./expertises/optimcare/</guid>
       <description>Optim’Care développe une plateforme unique, évolutive et sur-mesure intégrant différentes solutions de e-santé pour les patients transplantés et les professionnels de santé impliqués dans leur suivi.
 Nous avons été sollicité pour réaliser cette plateforme de santé qui est accessible via des applications mobiles et web.</description>
     </item>
     
     <item>
       <title></title>
-      <link>/testimonials/ema-cyril-job/</link>
+      <link>./testimonials/ema-cyril-job/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/testimonials/ema-cyril-job/</guid>
+      <guid>./testimonials/ema-cyril-job/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Annuaire Santé</title>
-      <link>/composants/annuaire-sante/</link>
+      <link>./composants/annuaire-sante/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/composants/annuaire-sante/</guid>
+      <guid>./composants/annuaire-sante/</guid>
       <description>Rechercher un professionnel de santé selon son nom, sa spécialité, son adresse mais aussi sa géolocalisation. La mise en place de cette annuaire peut être longue et fastidieuse.
 Nous vous proposons clé en main cet annuaire indexé accessible par une API REST.
 Cet annuaire géolocalisé intègre plusieurs source de données, notamment :
@@ -43,10 +43,10 @@ Cet annuaire géolocalisé intègre plusieurs source de données, notamment :
     
     <item>
       <title>Api CPS</title>
-      <link>/composants/cps/</link>
+      <link>./composants/cps/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/composants/cps/</guid>
+      <guid>./composants/cps/</guid>
       <description>L&amp;rsquo;api CPS proposée par DEVCOOP au travers d&amp;rsquo;une API Java ou REST, vous laisse accéder à l&amp;rsquo;ensemble des possibilités de la carte CPS3.
 L&amp;rsquo;API-CPS permet notamment :
  d&amp;rsquo;authentifier un utilisateur de gérer les différents lecteurs de carte et cartes disponibles sur le poste de travail de gérer l&#39;état des lecteurs (carte arrachée) d&amp;rsquo;accéder à l&amp;rsquo;ensemble des métadonnées de la carte CPS 3 comme les données d&amp;rsquo;identifications de la carte, du porteur de la carte, la liste des situations d&amp;rsquo;exercice.</description>
@@ -54,20 +54,20 @@ L&amp;rsquo;API-CPS permet notamment :
     
     <item>
       <title>Api SESAM Vitale</title>
-      <link>/composants/sesam-vitale/</link>
+      <link>./composants/sesam-vitale/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/composants/sesam-vitale/</guid>
+      <guid>./composants/sesam-vitale/</guid>
       <description>Comme pour l&amp;rsquo;api CPS l&amp;rsquo;objectif de DEVCOOP est de vous fournir une API java ou REST, vous permettant d&amp;rsquo;accéder à l&amp;rsquo;ensemble des fonctionnalités de la carte vitale.
 Vous êtes intéressé par le développement de ce connecteur Contactez-nous</description>
     </item>
     
     <item>
       <title>DMPC-API</title>
-      <link>/connecteurs/dmpc-api/</link>
+      <link>./connecteurs/dmpc-api/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/connecteurs/dmpc-api/</guid>
+      <guid>./connecteurs/dmpc-api/</guid>
       <description>La DMPC-API est un connecteur EAI permettant la connexion avec le DMP. Elle facilite aux éditeurs de logiciel de santé l&amp;rsquo;intéropérabilité avec le DMP.
 La force de cette API est dans la simplicité de sa mise en oeuvre, mais aussi dans ses briques applicatives utilisées.
  Trois manières différentes d&amp;rsquo;intégrer la DMPC-API :
@@ -76,30 +76,30 @@ La force de cette API est dans la simplicité de sa mise en oeuvre, mais aussi d
     
     <item>
       <title>Docavenue</title>
-      <link>/expertises/docavenue/</link>
+      <link>./expertises/docavenue/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/expertises/docavenue/</guid>
+      <guid>./expertises/docavenue/</guid>
       <description>Avec Docavenue, Cegedim combine son savoir-faire dans les outils digitaux et son expertise de la santé pour proposer une plateforme de services médicaux. Elle connecte directement le patient à l’agenda du professionnel de santé choisi.
 Nous avons participez à la réalisation des applications web et mobile avec notamment la prise de rendez-vous, la téléconsultation, la gestion d&amp;rsquo;agenda et la recherche de praticien géolocalisé.</description>
     </item>
     
     <item>
       <title>Document structurés</title>
-      <link>/composants/documents-structures/</link>
+      <link>./composants/documents-structures/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/composants/documents-structures/</guid>
+      <guid>./composants/documents-structures/</guid>
       <description>Partager des documents entre soignants au travers du DMP, c&amp;rsquo;est bien. Partager ces mêmes données au travers de documents structurés, permet une meilleure interopérabilité entre les systèmes. La gestion de documents structurés au sein de notre DMPC-API, permet le partage de Compte Rendus Biologiques :  Volet CR-BIO – Compte-rendu d&amp;rsquo;examens de biologie médicale  Plus d&amp;rsquo;information sur la documentation de la DMPC-API -
 Devcoop s&amp;rsquo;engage à développer d&amp;rsquo;autres volets du cadre d&amp;rsquo;intéropérabilité selon vos besoins, comme par exemple les volets suivants :  Volet VSM – Synthèse médicale Volet CSE – Certificats de Santé de l&amp;rsquo;Enfant Volet F-PRC – Fiches Patient à risque en cardiologie  </description>
     </item>
     
     <item>
       <title>Mentions légales</title>
-      <link>/mentions/</link>
+      <link>./mentions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/mentions/</guid>
+      <guid>./mentions/</guid>
       <description>Informations légales :   Raison sociale : DEVCOOP Consulting
   Forme juridique : SCOP SARL
   Numéro de SIRET : 51786565500024
@@ -114,10 +114,10 @@ Devcoop s&amp;rsquo;engage à développer d&amp;rsquo;autres volets du cadre d&a
     
     <item>
       <title>MS Santé</title>
-      <link>/connecteurs/ms-sante/</link>
+      <link>./connecteurs/ms-sante/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/connecteurs/ms-sante/</guid>
+      <guid>./connecteurs/ms-sante/</guid>
       <description>La MSSanté, Messagerie sécurisées de santé, est un espace de confiance au sein duquel les professionnels de santé, en ville comme à l&amp;rsquo;hôpital peuvent s&#39;échanger par mail des données de santé.
 La MSSanté réunit un ensemble d&amp;rsquo;opérateurs de messageries qui respectent les exigences de sécurité et d&amp;rsquo;intéropérabilité définie par l&amp;rsquo;ANS.
 Cet espaces de confiance sécurisé comprend :
@@ -126,48 +126,48 @@ Cet espaces de confiance sécurisé comprend :
     
     <item>
       <title>Prescription et administration de médicaments</title>
-      <link>/expertises/agfa/</link>
+      <link>./expertises/agfa/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/expertises/agfa/</guid>
+      <guid>./expertises/agfa/</guid>
       <description>Réalisation d&amp;rsquo;une application mobile et web pour la prescription et l&amp;rsquo;administration de médicaments.
 Intégration d&amp;rsquo;une base médicamenteuse.</description>
     </item>
     
     <item>
       <title>Puis je souscrire à une licence d&#39;un seul composant ?</title>
-      <link>/faq/question_licence_composant/</link>
+      <link>./faq/question_licence_composant/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/faq/question_licence_composant/</guid>
+      <guid>./faq/question_licence_composant/</guid>
       <description>Oui, vous pouvez acheter pour votre société le composant qui vous intéresse.</description>
     </item>
     
     <item>
       <title>Quelle type de licence d&#39;utilisation de logiciel, proposez-vous ?</title>
-      <link>/faq/question_licence_type/</link>
+      <link>./faq/question_licence_type/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/faq/question_licence_type/</guid>
+      <guid>./faq/question_licence_type/</guid>
       <description>Nos composants et connecteurs sont des briques embarquées dans vos solutions. Vous êtes libre de les intégrer comme vous le souhaitez. La licence est donc globale à la personne morale.</description>
     </item>
     
     <item>
       <title>Quelles prestations proposez-vous ?</title>
-      <link>/faq/question_offres_prestations/</link>
+      <link>./faq/question_offres_prestations/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/faq/question_offres_prestations/</guid>
+      <guid>./faq/question_offres_prestations/</guid>
       <description>Les prestations proposées par DEVCOOP sont :
  L&amp;rsquo;accompagnement auprés du CNDA pour l&amp;rsquo;homologation de votre solution Des développements spécifiques pour l&amp;rsquo;intégration dans votre solution technique de nos composants. De l&amp;rsquo;assistance technique pour le développement de vos propres solutions.  </description>
     </item>
     
     <item>
       <title>Téléservice INS</title>
-      <link>/connecteurs/teleservice-ins/</link>
+      <link>./connecteurs/teleservice-ins/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/connecteurs/teleservice-ins/</guid>
+      <guid>./connecteurs/teleservice-ins/</guid>
       <description>L&amp;rsquo;INS est l&amp;rsquo;identifiant national de santé permettant de référencer les données de Santé : NIR ou NIA
  NIR : Numéro d&amp;rsquo;inscription au répertoire national des personnes physiques NIA : Numéro d&amp;rsquo;identifiant en attente.  Le téléservice INSpropose deux opérations
   Récupérer l&amp;rsquo;INS et des traits d&amp;rsquo;identité de l&#39;état civil. Utile dans le cadre d&amp;rsquo;une prise en charge d&amp;rsquo;un patient par un professionnel de santé par lecture de la carte vitale ou par défaut les informations connues du système de santé (janvier 2020).</description>
@@ -175,10 +175,10 @@ Intégration d&amp;rsquo;une base médicamenteuse.</description>
     
     <item>
       <title>XDiet</title>
-      <link>/expertises/xdiet/</link>
+      <link>./expertises/xdiet/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/expertises/xdiet/</guid>
+      <guid>./expertises/xdiet/</guid>
       <description>Réalisation d&amp;rsquo;une application mobile de conseil et suivi en alimentation et diététique.</description>
     </item>
     
