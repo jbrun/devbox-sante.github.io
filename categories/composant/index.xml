@@ -11,6 +11,17 @@
     
     
     <item>
+      <title>Api CPS</title>
+      <link>./composants/cps/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>./composants/cps/</guid>
+      <description>L&amp;rsquo;api CPS proposée par DEVCOOP au travers d&amp;rsquo;une API Java ou REST, vous laisse accéder à l&amp;rsquo;ensemble des possibilités de la carte CPS3.
+L&amp;rsquo;API-CPS permet notamment :
+ d&amp;rsquo;authentifier un utilisateur de gérer les différents lecteurs de carte et cartes disponibles sur le poste de travail de gérer l&#39;état des lecteurs (carte arrachée) d&amp;rsquo;accéder à l&amp;rsquo;ensemble des métadonnées de la carte CPS 3 comme les données d&amp;rsquo;identifications de la carte, du porteur de la carte, la liste des situations d&amp;rsquo;exercice.</description>
+    </item>
+    
+    <item>
       <title>Annuaire Santé</title>
       <link>./composants/annuaire-sante/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -20,17 +31,6 @@
 Nous vous proposons clé en main cet annuaire indexé accessible par une API REST.
 Cet annuaire géolocalisé intègre plusieurs source de données, notamment :
  le Répertoire Partagé des Professionnels de Santé (RPPS) le Répertoire des établissements (FINESS) la base Adresse Nationale  Vous êtes intéressé par l&amp;rsquo;intégration de cet annuaire Contactez-nous</description>
-    </item>
-    
-    <item>
-      <title>Api CPS</title>
-      <link>./composants/cps/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>./composants/cps/</guid>
-      <description>L&amp;rsquo;api CPS proposée par DEVCOOP au travers d&amp;rsquo;une API Java ou REST, vous laisse accéder à l&amp;rsquo;ensemble des possibilités de la carte CPS3.
-L&amp;rsquo;API-CPS permet notamment :
- d&amp;rsquo;authentifier un utilisateur de gérer les différents lecteurs de carte et cartes disponibles sur le poste de travail de gérer l&#39;état des lecteurs (carte arrachée) d&amp;rsquo;accéder à l&amp;rsquo;ensemble des métadonnées de la carte CPS 3 comme les données d&amp;rsquo;identifications de la carte, du porteur de la carte, la liste des situations d&amp;rsquo;exercice.</description>
     </item>
     
     <item>

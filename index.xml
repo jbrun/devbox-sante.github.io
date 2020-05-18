@@ -11,6 +11,29 @@
     
     
     <item>
+      <title>Api CPS</title>
+      <link>./composants/cps/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>./composants/cps/</guid>
+      <description>L&amp;rsquo;api CPS proposée par DEVCOOP au travers d&amp;rsquo;une API Java ou REST, vous laisse accéder à l&amp;rsquo;ensemble des possibilités de la carte CPS3.
+L&amp;rsquo;API-CPS permet notamment :
+ d&amp;rsquo;authentifier un utilisateur de gérer les différents lecteurs de carte et cartes disponibles sur le poste de travail de gérer l&#39;état des lecteurs (carte arrachée) d&amp;rsquo;accéder à l&amp;rsquo;ensemble des métadonnées de la carte CPS 3 comme les données d&amp;rsquo;identifications de la carte, du porteur de la carte, la liste des situations d&amp;rsquo;exercice.</description>
+    </item>
+    
+    <item>
+      <title>DMPC-API</title>
+      <link>./connecteurs/dmpc-api/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>./connecteurs/dmpc-api/</guid>
+      <description>La DMPC-API est un connecteur EAI permettant la connexion avec le DMP. Elle facilite aux éditeurs de logiciel de santé l&amp;rsquo;intéropérabilité avec le DMP.
+La force de cette API est dans la simplicité de sa mise en oeuvre, mais aussi dans ses briques applicatives utilisées.
+ Trois manières différentes d&amp;rsquo;intégrer la DMPC-API :
+ Embedded : directement dans vos modules SpringBoot Java. ProxyWS : via des WebServices SOAP ProxyRest : via une api REST   Deux manières différentes de s&amp;rsquo;authentifier :</description>
+    </item>
+    
+    <item>
       <title>Optim&#39;Care</title>
       <link>./expertises/optimcare/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -42,17 +65,6 @@ Cet annuaire géolocalisé intègre plusieurs source de données, notamment :
     </item>
     
     <item>
-      <title>Api CPS</title>
-      <link>./composants/cps/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>./composants/cps/</guid>
-      <description>L&amp;rsquo;api CPS proposée par DEVCOOP au travers d&amp;rsquo;une API Java ou REST, vous laisse accéder à l&amp;rsquo;ensemble des possibilités de la carte CPS3.
-L&amp;rsquo;API-CPS permet notamment :
- d&amp;rsquo;authentifier un utilisateur de gérer les différents lecteurs de carte et cartes disponibles sur le poste de travail de gérer l&#39;état des lecteurs (carte arrachée) d&amp;rsquo;accéder à l&amp;rsquo;ensemble des métadonnées de la carte CPS 3 comme les données d&amp;rsquo;identifications de la carte, du porteur de la carte, la liste des situations d&amp;rsquo;exercice.</description>
-    </item>
-    
-    <item>
       <title>Api SESAM Vitale</title>
       <link>./composants/sesam-vitale/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -60,18 +72,6 @@ L&amp;rsquo;API-CPS permet notamment :
       <guid>./composants/sesam-vitale/</guid>
       <description>Comme pour l&amp;rsquo;api CPS l&amp;rsquo;objectif de DEVCOOP est de vous fournir une API java ou REST, vous permettant d&amp;rsquo;accéder à l&amp;rsquo;ensemble des fonctionnalités de la carte vitale.
 Vous êtes intéressé par le développement de ce connecteur Contactez-nous</description>
-    </item>
-    
-    <item>
-      <title>DMPC-API</title>
-      <link>./connecteurs/dmpc-api/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>./connecteurs/dmpc-api/</guid>
-      <description>La DMPC-API est un connecteur EAI permettant la connexion avec le DMP. Elle facilite aux éditeurs de logiciel de santé l&amp;rsquo;intéropérabilité avec le DMP.
-La force de cette API est dans la simplicité de sa mise en oeuvre, mais aussi dans ses briques applicatives utilisées.
- Trois manières différentes d&amp;rsquo;intégrer la DMPC-API :
- Embedded : directement dans vos modules SpringBoot Java. ProxyWS : via des WebServices SOAP ProxyRest : via une api REST    Deux manières différentes de s&amp;rsquo;authentifier :</description>
     </item>
     
     <item>
@@ -100,15 +100,15 @@ Devcoop s&amp;rsquo;engage à développer d&amp;rsquo;autres volets du cadre d&a
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>./mentions/</guid>
-      <description>Informations légales :   Raison sociale : DEVCOOP Consulting
-  Forme juridique : SCOP SARL
+      <description>Informations légales :   Raison sociale : DEVCOOP Consulting
+  Forme juridique : SCOP SARL
   Numéro de SIRET : 51786565500024
   Adresse : 228 avenue de Cadaujac 33850 Léognan
-  Capital social : 19 920 €
+  Capital social : 19 920 €
   Téléphone : 0360455713
   Email : contact@devcoop.fr
   Site Web : www.devbox-sante.fr
-  Responsable publication : DEVCOOP Consulting
+  Responsable publication : DEVCOOP Consulting
   Conditions générales d&amp;rsquo;utilisation du site et des services proposés.</description>
     </item>
     
@@ -168,9 +168,9 @@ Intégration d&amp;rsquo;une base médicamenteuse.</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>./connecteurs/teleservice-ins/</guid>
-      <description>L&amp;rsquo;INS est l&amp;rsquo;identifiant national de santé permettant de référencer les données de Santé : NIR ou NIA
- NIR : Numéro d&amp;rsquo;inscription au répertoire national des personnes physiques NIA : Numéro d&amp;rsquo;identifiant en attente.  Le téléservice INSpropose deux opérations
-  Récupérer l&amp;rsquo;INS et des traits d&amp;rsquo;identité de l&#39;état civil. Utile dans le cadre d&amp;rsquo;une prise en charge d&amp;rsquo;un patient par un professionnel de santé par lecture de la carte vitale ou par défaut les informations connues du système de santé (janvier 2020).</description>
+      <description>L&amp;rsquo;INS est l&amp;rsquo;identifiant national de santé permettant de référencer les données de Santé : NIR ou NIA
+ NIR : Numéro d&amp;rsquo;inscription au répertoire national des personnes physiques NIA : Numéro d&amp;rsquo;identifiant en attente.  Le téléservice INSpropose deux opérations
+  Récupérer l&amp;rsquo;INS et des traits d&amp;rsquo;identité de l&#39;état civil. Utile dans le cadre d&amp;rsquo;une prise en charge d&amp;rsquo;un patient par un professionnel de santé par lecture de la carte vitale ou par défaut les informations connues du système de santé (janvier 2020).</description>
     </item>
     
     <item>

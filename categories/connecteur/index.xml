@@ -19,7 +19,7 @@
       <description>La DMPC-API est un connecteur EAI permettant la connexion avec le DMP. Elle facilite aux éditeurs de logiciel de santé l&amp;rsquo;intéropérabilité avec le DMP.
 La force de cette API est dans la simplicité de sa mise en oeuvre, mais aussi dans ses briques applicatives utilisées.
  Trois manières différentes d&amp;rsquo;intégrer la DMPC-API :
- Embedded : directement dans vos modules SpringBoot Java. ProxyWS : via des WebServices SOAP ProxyRest : via une api REST    Deux manières différentes de s&amp;rsquo;authentifier :</description>
+ Embedded : directement dans vos modules SpringBoot Java. ProxyWS : via des WebServices SOAP ProxyRest : via une api REST   Deux manières différentes de s&amp;rsquo;authentifier :</description>
     </item>
     
     <item>
@@ -40,9 +40,9 @@ Cet espaces de confiance sécurisé comprend :
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>./connecteurs/teleservice-ins/</guid>
-      <description>L&amp;rsquo;INS est l&amp;rsquo;identifiant national de santé permettant de référencer les données de Santé : NIR ou NIA
- NIR : Numéro d&amp;rsquo;inscription au répertoire national des personnes physiques NIA : Numéro d&amp;rsquo;identifiant en attente.  Le téléservice INSpropose deux opérations
-  Récupérer l&amp;rsquo;INS et des traits d&amp;rsquo;identité de l&#39;état civil. Utile dans le cadre d&amp;rsquo;une prise en charge d&amp;rsquo;un patient par un professionnel de santé par lecture de la carte vitale ou par défaut les informations connues du système de santé (janvier 2020).</description>
+      <description>L&amp;rsquo;INS est l&amp;rsquo;identifiant national de santé permettant de référencer les données de Santé : NIR ou NIA
+ NIR : Numéro d&amp;rsquo;inscription au répertoire national des personnes physiques NIA : Numéro d&amp;rsquo;identifiant en attente.  Le téléservice INSpropose deux opérations
+  Récupérer l&amp;rsquo;INS et des traits d&amp;rsquo;identité de l&#39;état civil. Utile dans le cadre d&amp;rsquo;une prise en charge d&amp;rsquo;un patient par un professionnel de santé par lecture de la carte vitale ou par défaut les informations connues du système de santé (janvier 2020).</description>
     </item>
     
   </channel>

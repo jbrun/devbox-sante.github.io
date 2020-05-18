@@ -3,6 +3,14 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>./composants/cps/</loc>
+  </url>
+  
+  <url>
+    <loc>./connecteurs/dmpc-api/</loc>
+  </url>
+  
+  <url>
     <loc>./expertises/optimcare/</loc>
   </url>
   
@@ -12,10 +20,6 @@
   
   <url>
     <loc>./composants/annuaire-sante/</loc>
-  </url>
-  
-  <url>
-    <loc>./composants/cps/</loc>
   </url>
   
   <url>
@@ -48,10 +52,6 @@
   
   <url>
     <loc>./</loc>
-  </url>
-  
-  <url>
-    <loc>./connecteurs/dmpc-api/</loc>
   </url>
   
   <url>
