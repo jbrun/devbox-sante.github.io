@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Testimonials on DevBox _santé</title>
-    <link>./testimonials/</link>
+    <link>/testimonials/</link>
     <description>Recent content in Testimonials on DevBox _santé</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     
-	<atom:link href="./testimonials/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/testimonials/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>./testimonials/ema-cyril-job/</link>
+      <link>/testimonials/ema-cyril-job/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>./testimonials/ema-cyril-job/</guid>
+      <guid>/testimonials/ema-cyril-job/</guid>
       <description></description>
     </item>
     
