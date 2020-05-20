@@ -11,7 +11,7 @@
     
     
     <item>
-      <title>Puis je souscrire à une licence d&#39;un seul composant ?</title>
+      <title>Puis je souscrire à une licence pour un seul composant ?</title>
       <link>./faq/question_licence_composant/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -20,7 +20,7 @@
     </item>
     
     <item>
-      <title>Quelle type de licence d&#39;utilisation de logiciel, proposez-vous ?</title>
+      <title>Quel type de licence d&#39;utilisation de logiciel, proposez-vous ?</title>
       <link>./faq/question_licence_type/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -35,7 +35,7 @@
       
       <guid>./faq/question_offres_prestations/</guid>
       <description>Les prestations proposées par DEVCOOP sont :
- L&amp;rsquo;accompagnement auprés du CNDA pour l&amp;rsquo;homologation de votre solution Des développements spécifiques pour l&amp;rsquo;intégration dans votre solution technique de nos composants. De l&amp;rsquo;assistance technique pour le développement de vos propres solutions.  </description>
+ L&amp;rsquo;accompagnement auprés du CNDA pour l&amp;rsquo;homologation de votre solution Des développements spécifiques pour l&amp;rsquo;intégration technique de nos composants dans votre solution . De l&amp;rsquo;assistance technique pour le développement de vos propres solutions.  </description>
     </item>
     
   </channel>
