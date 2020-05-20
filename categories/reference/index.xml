@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>reference on DevBox _santé</title>
-    <link>./categories/reference/</link>
+    <link>/categories/reference/</link>
     <description>Recent content in reference on DevBox _santé</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     
-	<atom:link href="./categories/reference/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/reference/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Optim&#39;Care</title>
-      <link>./expertises/optimcare/</link>
+      <link>/expertises/optimcare/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>./expertises/optimcare/</guid>
+      <guid>/expertises/optimcare/</guid>
       <description>Optim’Care développe une plateforme unique, évolutive et sur-mesure intégrant différentes solutions de e-santé pour les patients transplantés et les professionnels de santé impliqués dans leur suivi.
 Réalisation de la plateforme de santé accessible via des applications mobiles et webs.
-Connexion avec des objets connectés de santé.</description>
+Intégration avec des objets connectés de santé.</description>
     </item>
     
     <item>
       <title>Prescription et administration de médicaments</title>
-      <link>./expertises/agfa/</link>
+      <link>/expertises/agfa/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>./expertises/agfa/</guid>
+      <guid>/expertises/agfa/</guid>
       <description>Réalisation d&amp;rsquo;une application mobile et web pour la prescription et l&amp;rsquo;administration de médicaments.
 Intégration d&amp;rsquo;une base de données médicamenteuse.</description>
     </item>
