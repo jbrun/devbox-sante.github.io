@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>DevBox_santé on DevBox _santé</title>
-    <link>www.devbox-sante.fr/</link>
+    <link>./</link>
     <description>Recent content in DevBox_santé on DevBox _santé</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     
-	<atom:link href="www.devbox-sante.fr/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="./index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>CPS-API</title>
-      <link>www.devbox-sante.fr/composants/cps/</link>
+      <link>./composants/cps/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>www.devbox-sante.fr/composants/cps/</guid>
+      <guid>./composants/cps/</guid>
       <description>La CPS-API proposée par DEVCOOP au travers d&amp;rsquo;une API Java ou REST, permet d&amp;rsquo;accéder à l&amp;rsquo;ensemble des possibilités de la carte CPS3.
 Notamment :
  authentifier un utilisateur gérer les différents lecteurs de carte et cartes disponibles gérer l&#39;état des lecteurs (carte arrachée) accéder à l&amp;rsquo;ensemble des métadonnées de la carte CPS 3 telles que les données d&amp;rsquo;identification de la carte, du porteur de la carte et la liste des situations d&amp;rsquo;exercice.</description>
@@ -23,10 +23,10 @@ Notamment :
     
     <item>
       <title>DMPC-API</title>
-      <link>www.devbox-sante.fr/connecteurs/dmpc-api/</link>
+      <link>./connecteurs/dmpc-api/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>www.devbox-sante.fr/connecteurs/dmpc-api/</guid>
+      <guid>./connecteurs/dmpc-api/</guid>
       <description>La DMPC-API est un connecteur EAI qui s&amp;rsquo;interface avec le DMP. Elle facilite aux éditeurs de logiciel de santé l&amp;rsquo;intéropérabilité avec le DMP.
 La force de cette API :
  simplicité de sa mise en oeuvre utilisation des librairies référentes du marché (Apache CXF, Apache Santuario, SpringBoot).   Trois manières d&amp;rsquo;intégrer la DMPC-API :
@@ -35,10 +35,10 @@ La force de cette API :
     
     <item>
       <title>Optim&#39;Care</title>
-      <link>www.devbox-sante.fr/expertises/optimcare/</link>
+      <link>./expertises/optimcare/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>www.devbox-sante.fr/expertises/optimcare/</guid>
+      <guid>./expertises/optimcare/</guid>
       <description>Optim’Care développe une plateforme unique, évolutive et sur-mesure intégrant différentes solutions de e-santé pour les patients transplantés et les professionnels de santé impliqués dans leur suivi.
 Réalisation de la plateforme de santé accessible via des applications mobiles et webs.
 Intégration avec des objets connectés de santé.</description>
@@ -46,19 +46,19 @@ Intégration avec des objets connectés de santé.</description>
     
     <item>
       <title></title>
-      <link>www.devbox-sante.fr/testimonials/ema-cyril-job/</link>
+      <link>./testimonials/ema-cyril-job/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>www.devbox-sante.fr/testimonials/ema-cyril-job/</guid>
+      <guid>./testimonials/ema-cyril-job/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Annuaire Santé</title>
-      <link>www.devbox-sante.fr/composants/annuaire-sante/</link>
+      <link>./composants/annuaire-sante/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>www.devbox-sante.fr/composants/annuaire-sante/</guid>
+      <guid>./composants/annuaire-sante/</guid>
       <description>L&amp;rsquo;Annuaire Santé est un service qui permet la recherche d&amp;rsquo;un professionnel de santé par son nom, sa spécialité, son adresse mais aussi sa géolocalisation.
 Gagnez du temps ! Nous vous proposons clé en main cet annuaire indexé accessible par une API REST/JSON.
 Intégration de plusieurs sources de données :
@@ -67,10 +67,10 @@ Intégration de plusieurs sources de données :
     
     <item>
       <title>API SESAM Vitale</title>
-      <link>www.devbox-sante.fr/composants/sesam-vitale/</link>
+      <link>./composants/sesam-vitale/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>www.devbox-sante.fr/composants/sesam-vitale/</guid>
+      <guid>./composants/sesam-vitale/</guid>
       <description>Comme la CPS-API, ce composant fournira une API Java et REST/JSON, permettant d&amp;rsquo;accéder à l&amp;rsquo;ensemble des fonctionnalités de la carte vitale.
 Intéressé par le développement de ce connecteur ?
 Contactez-nous</description>
@@ -78,10 +78,10 @@ Contactez-nous</description>
     
     <item>
       <title>Documents structurés</title>
-      <link>www.devbox-sante.fr/composants/documents-structures/</link>
+      <link>./composants/documents-structures/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>www.devbox-sante.fr/composants/documents-structures/</guid>
+      <guid>./composants/documents-structures/</guid>
       <description>Partager des documents entre soignants au travers du DMP est un pré-requis.
 Partager ces mêmes données au travers de documents structurés permet une meilleure interopérabilité entre les systèmes.
 Exemple, partager les compte-rendu Biologiques grâce à la gestion de documents structurés par notre DMPC-API :  Volet CR-BIO – Compte-rendu d&amp;rsquo;examens de biologie médicale  Plus d&amp;rsquo;informations sur la documentation de la DMPC-APIDevcoop s&amp;rsquo;engage à développer d&amp;rsquo;autres volets du cadre d&amp;rsquo;intéropérabilité selon vos besoins :  Volet VSM – Synthèse médicale Volet CSE – Certificats de Santé de l&amp;rsquo;Enfant Volet F-PRC – Fiches Patient à risque en cardiologie &amp;hellip;  Intéressé par le développement d&amp;rsquo;un des documents structurés ?</description>
@@ -89,10 +89,10 @@ Exemple, partager les compte-rendu Biologiques grâce à la gestion de documents
     
     <item>
       <title>Mentions légales</title>
-      <link>www.devbox-sante.fr/mentions/</link>
+      <link>./mentions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>www.devbox-sante.fr/mentions/</guid>
+      <guid>./mentions/</guid>
       <description>Informations légales :   Raison sociale : DEVCOOP Consulting
   Forme juridique : SCOP SARL
   Numéro de SIRET : 51786565500024
@@ -107,10 +107,10 @@ Exemple, partager les compte-rendu Biologiques grâce à la gestion de documents
     
     <item>
       <title>MS Santé</title>
-      <link>www.devbox-sante.fr/connecteurs/ms-sante/</link>
+      <link>./connecteurs/ms-sante/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>www.devbox-sante.fr/connecteurs/ms-sante/</guid>
+      <guid>./connecteurs/ms-sante/</guid>
       <description>La MSSanté, Messagerie sécurisée de santé, est un espace de confiance au sein duquel les professionnels de santé, en ville comme à l&amp;rsquo;hôpital peuvent s&#39;échanger par mail des données de santé.
 La MSSanté réunit un ensemble d&amp;rsquo;opérateurs de messagerie qui respectent les exigences de sécurité et d&amp;rsquo;intéropérabilité définies par l&amp;rsquo;ANS.
 Cet espace de confiance sécurisé comprend :
@@ -119,57 +119,57 @@ Cet espace de confiance sécurisé comprend :
     
     <item>
       <title>Prescription et administration de médicaments</title>
-      <link>www.devbox-sante.fr/expertises/agfa/</link>
+      <link>./expertises/agfa/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>www.devbox-sante.fr/expertises/agfa/</guid>
+      <guid>./expertises/agfa/</guid>
       <description>Réalisation d&amp;rsquo;une application mobile et web pour la prescription et l&amp;rsquo;administration de médicaments.
 Intégration d&amp;rsquo;une base de données médicamenteuse.</description>
     </item>
     
     <item>
       <title>Prise de RDV en ligne</title>
-      <link>www.devbox-sante.fr/expertises/docavenue/</link>
+      <link>./expertises/docavenue/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>www.devbox-sante.fr/expertises/docavenue/</guid>
+      <guid>./expertises/docavenue/</guid>
       <description>Réalisation d&amp;rsquo;applications webs et mobiles pour la prise de rendez-vous en ligne avec des professionnels de santé mais aussi la téléconsultation, la gestion d&amp;rsquo;agenda et la recherche de praticien géolocalisée.</description>
     </item>
     
     <item>
       <title>Puis je souscrire à une licence pour un seul composant ?</title>
-      <link>www.devbox-sante.fr/faq/question_licence_composant/</link>
+      <link>./faq/question_licence_composant/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>www.devbox-sante.fr/faq/question_licence_composant/</guid>
+      <guid>./faq/question_licence_composant/</guid>
       <description>Oui, vous pouvez acheter pour votre société le composant qui vous intéresse.</description>
     </item>
     
     <item>
       <title>Quel type de licence d&#39;utilisation de logiciel, proposez-vous ?</title>
-      <link>www.devbox-sante.fr/faq/question_licence_type/</link>
+      <link>./faq/question_licence_type/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>www.devbox-sante.fr/faq/question_licence_type/</guid>
+      <guid>./faq/question_licence_type/</guid>
       <description>Nos composants et connecteurs sont des briques embarquées dans vos solutions. Vous êtes libre de les intégrer comme vous le souhaitez. La licence est donc globale à la personne morale.</description>
     </item>
     
     <item>
       <title>Quelles prestations proposez-vous ?</title>
-      <link>www.devbox-sante.fr/faq/question_offres_prestations/</link>
+      <link>./faq/question_offres_prestations/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>www.devbox-sante.fr/faq/question_offres_prestations/</guid>
+      <guid>./faq/question_offres_prestations/</guid>
       <description>Les prestations proposées par DEVCOOP sont :
  L&amp;rsquo;accompagnement auprés du CNDA pour l&amp;rsquo;homologation de votre solution Des développements spécifiques pour l&amp;rsquo;intégration technique de nos composants dans votre solution . De l&amp;rsquo;assistance technique pour le développement de vos propres solutions.  </description>
     </item>
     
     <item>
       <title>Téléservice INS</title>
-      <link>www.devbox-sante.fr/connecteurs/teleservice-ins/</link>
+      <link>./connecteurs/teleservice-ins/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>www.devbox-sante.fr/connecteurs/teleservice-ins/</guid>
+      <guid>./connecteurs/teleservice-ins/</guid>
       <description>L&amp;rsquo;INS est l&amp;rsquo;identifiant national de santé permettant de référencer les données de Santé : NIR ou NIA
  NIR : Numéro d&amp;rsquo;inscription au répertoire national des personnes physiques NIA : Numéro d&amp;rsquo;identifiant en attente.  Le téléservice INSpropose deux opérations
   Récupérer l&amp;rsquo;INS et des traits d&amp;rsquo;identité de l&#39;état civil. Utile dans le cadre d&amp;rsquo;une prise en charge d&amp;rsquo;un patient par un professionnel de santé par lecture de la carte vitale ou par défaut les informations connues du système de santé.</description>
@@ -177,10 +177,10 @@ Intégration d&amp;rsquo;une base de données médicamenteuse.</description>
     
     <item>
       <title>XDiet</title>
-      <link>www.devbox-sante.fr/expertises/xdiet/</link>
+      <link>./expertises/xdiet/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>www.devbox-sante.fr/expertises/xdiet/</guid>
+      <guid>./expertises/xdiet/</guid>
       <description>Cette application exploite une méthode innovante pour une alimentation équilibrée et sans carence, sans interdit ni frustration distinguant cinq catégories d&amp;rsquo;aliments.
 Réalisation d&amp;rsquo;une application mobile de conseil et suivi en alimentation mettant en œuvre quelques mécanismes de gamification.</description>
     </item>

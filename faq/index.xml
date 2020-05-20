@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Foire aux questions on DevBox _santé</title>
-    <link>www.devbox-sante.fr/faq/</link>
+    <link>./faq/</link>
     <description>Recent content in Foire aux questions on DevBox _santé</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     
-	<atom:link href="www.devbox-sante.fr/faq/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="./faq/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Puis je souscrire à une licence pour un seul composant ?</title>
-      <link>www.devbox-sante.fr/faq/question_licence_composant/</link>
+      <link>./faq/question_licence_composant/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>www.devbox-sante.fr/faq/question_licence_composant/</guid>
+      <guid>./faq/question_licence_composant/</guid>
       <description>Oui, vous pouvez acheter pour votre société le composant qui vous intéresse.</description>
     </item>
     
     <item>
       <title>Quel type de licence d&#39;utilisation de logiciel, proposez-vous ?</title>
-      <link>www.devbox-sante.fr/faq/question_licence_type/</link>
+      <link>./faq/question_licence_type/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>www.devbox-sante.fr/faq/question_licence_type/</guid>
+      <guid>./faq/question_licence_type/</guid>
       <description>Nos composants et connecteurs sont des briques embarquées dans vos solutions. Vous êtes libre de les intégrer comme vous le souhaitez. La licence est donc globale à la personne morale.</description>
     </item>
     
     <item>
       <title>Quelles prestations proposez-vous ?</title>
-      <link>www.devbox-sante.fr/faq/question_offres_prestations/</link>
+      <link>./faq/question_offres_prestations/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>www.devbox-sante.fr/faq/question_offres_prestations/</guid>
+      <guid>./faq/question_offres_prestations/</guid>
       <description>Les prestations proposées par DEVCOOP sont :
  L&amp;rsquo;accompagnement auprés du CNDA pour l&amp;rsquo;homologation de votre solution Des développements spécifiques pour l&amp;rsquo;intégration technique de nos composants dans votre solution . De l&amp;rsquo;assistance technique pour le développement de vos propres solutions.  </description>
     </item>
