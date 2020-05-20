@@ -17,9 +17,9 @@
       
       <guid>./connecteurs/dmpc-api/</guid>
       <description>La DMPC-API est un connecteur EAI permettant la connexion avec le DMP. Elle facilite aux éditeurs de logiciel de santé l&amp;rsquo;intéropérabilité avec le DMP.
-La force de cette API est dans la simplicité de sa mise en oeuvre, mais aussi dans ses briques applicatives utilisées.
+La force de cette API est dans la simplicité de sa mise en oeuvre, mais aussi dans les briques applicatives utilisées.
  Trois manières différentes d&amp;rsquo;intégrer la DMPC-API :
- Embedded : directement dans vos modules SpringBoot Java. ProxyWS : via des WebServices SOAP ProxyRest : via une api REST   Deux manières différentes de s&amp;rsquo;authentifier :</description>
+ Embedded : directement dans vos modules SpringBoot Java. ProxyWS : via des WebServices SOAP ProxyREST : via une API REST / JSON   Deux manières différentes de s&amp;rsquo;authentifier :</description>
     </item>
     
     <item>
@@ -28,10 +28,10 @@ La force de cette API est dans la simplicité de sa mise en oeuvre, mais aussi d
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>./connecteurs/ms-sante/</guid>
-      <description>La MSSanté, Messagerie sécurisées de santé, est un espace de confiance au sein duquel les professionnels de santé, en ville comme à l&amp;rsquo;hôpital peuvent s&#39;échanger par mail des données de santé.
-La MSSanté réunit un ensemble d&amp;rsquo;opérateurs de messageries qui respectent les exigences de sécurité et d&amp;rsquo;intéropérabilité définie par l&amp;rsquo;ANS.
-Cet espaces de confiance sécurisé comprend :
- un annuaire national MSSanté des professionnels une liste blanche des opérateurs  L&amp;rsquo;objectif de DEVCOOP est connecteur vous permettant d&amp;rsquo;accéder facilement à ce Téléservice.</description>
+      <description>La MSSanté, Messagerie sécurisée de santé, est un espace de confiance au sein duquel les professionnels de santé, en ville comme à l&amp;rsquo;hôpital peuvent s&#39;échanger par mail des données de santé.
+La MSSanté réunit un ensemble d&amp;rsquo;opérateurs de messagerie qui respectent les exigences de sécurité et d&amp;rsquo;intéropérabilité définies par l&amp;rsquo;ANS.
+Cet espace de confiance sécurisé comprend :
+ un annuaire national MSSanté des professionnels une liste blanche des opérateurs  L&amp;rsquo;objectif de DEVCOOP est de fournir un connecteur vous permettant d&amp;rsquo;accéder facilement à ce Téléservice.</description>
     </item>
     
     <item>
@@ -42,7 +42,7 @@ Cet espaces de confiance sécurisé comprend :
       <guid>./connecteurs/teleservice-ins/</guid>
       <description>L&amp;rsquo;INS est l&amp;rsquo;identifiant national de santé permettant de référencer les données de Santé : NIR ou NIA
  NIR : Numéro d&amp;rsquo;inscription au répertoire national des personnes physiques NIA : Numéro d&amp;rsquo;identifiant en attente.  Le téléservice INSpropose deux opérations
-  Récupérer l&amp;rsquo;INS et des traits d&amp;rsquo;identité de l&#39;état civil. Utile dans le cadre d&amp;rsquo;une prise en charge d&amp;rsquo;un patient par un professionnel de santé par lecture de la carte vitale ou par défaut les informations connues du système de santé (janvier 2020).</description>
+  Récupérer l&amp;rsquo;INS et des traits d&amp;rsquo;identité de l&#39;état civil. Utile dans le cadre d&amp;rsquo;une prise en charge d&amp;rsquo;un patient par un professionnel de santé par lecture de la carte vitale ou par défaut les informations connues du système de santé.</description>
     </item>
     
   </channel>

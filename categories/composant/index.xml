@@ -11,14 +11,14 @@
     
     
     <item>
-      <title>Api CPS</title>
+      <title>CPS-API</title>
       <link>./composants/cps/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>./composants/cps/</guid>
-      <description>L&amp;rsquo;api CPS proposée par DEVCOOP au travers d&amp;rsquo;une API Java ou REST, vous laisse accéder à l&amp;rsquo;ensemble des possibilités de la carte CPS3.
-L&amp;rsquo;API-CPS permet notamment :
- d&amp;rsquo;authentifier un utilisateur de gérer les différents lecteurs de carte et cartes disponibles sur le poste de travail de gérer l&#39;état des lecteurs (carte arrachée) d&amp;rsquo;accéder à l&amp;rsquo;ensemble des métadonnées de la carte CPS 3 comme les données d&amp;rsquo;identifications de la carte, du porteur de la carte, la liste des situations d&amp;rsquo;exercice.</description>
+      <description>La CPS-API proposée par DEVCOOP au travers d&amp;rsquo;une API Java ou REST, vous permet d&amp;rsquo;accéder à l&amp;rsquo;ensemble des possibilités de la carte CPS3.
+Notamment :
+ authentifier un utilisateur gérer les différents lecteurs de carte et cartes disponibles gérer l&#39;état des lecteurs (carte arrachée) accéder à l&amp;rsquo;ensemble des métadonnées de la carte CPS 3 telles que les données d&amp;rsquo;identification de la carte, du porteur de la carte et la liste des situations d&amp;rsquo;exercice.</description>
     </item>
     
     <item>
@@ -27,30 +27,30 @@ L&amp;rsquo;API-CPS permet notamment :
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>./composants/annuaire-sante/</guid>
-      <description>Rechercher un professionnel de santé selon son nom, sa spécialité, son adresse mais aussi sa géolocalisation. La mise en place de cette annuaire peut être longue et fastidieuse.
-Nous vous proposons clé en main cet annuaire indexé accessible par une API REST.
-Cet annuaire géolocalisé intègre plusieurs source de données, notamment :
+      <description>Rechercher un professionnel de santé par son nom, sa spécialité, son adresse mais aussi sa géolocalisation. La mise en place de cet annuaire peut être longue et fastidieuse.
+Nous vous proposons clé en main cet annuaire indexé accessible par une API REST/JSON.
+Cet annuaire géolocalisé intègre plusieurs sources de données, notamment :
  le Répertoire Partagé des Professionnels de Santé (RPPS) le Répertoire des établissements (FINESS) la base Adresse Nationale  Vous êtes intéressé par l&amp;rsquo;intégration de cet annuaire Contactez-nous</description>
     </item>
     
     <item>
-      <title>Api SESAM Vitale</title>
+      <title>API SESAM Vitale</title>
       <link>./composants/sesam-vitale/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>./composants/sesam-vitale/</guid>
-      <description>Comme pour l&amp;rsquo;api CPS l&amp;rsquo;objectif de DEVCOOP est de vous fournir une API java ou REST, vous permettant d&amp;rsquo;accéder à l&amp;rsquo;ensemble des fonctionnalités de la carte vitale.
+      <description>Comme la CPS-API l&amp;rsquo;objectif de ce composant est de vous fournir une API java et REST/JSON, vous permettant d&amp;rsquo;accéder à l&amp;rsquo;ensemble des fonctionnalités de la carte vitale.
 Vous êtes intéressé par le développement de ce connecteur Contactez-nous</description>
     </item>
     
     <item>
-      <title>Document structurés</title>
+      <title>Documents structurés</title>
       <link>./composants/documents-structures/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>./composants/documents-structures/</guid>
-      <description>Partager des documents entre soignants au travers du DMP, c&amp;rsquo;est bien. Partager ces mêmes données au travers de documents structurés, permet une meilleure interopérabilité entre les systèmes. La gestion de documents structurés au sein de notre DMPC-API, permet le partage de Compte Rendus Biologiques :  Volet CR-BIO – Compte-rendu d&amp;rsquo;examens de biologie médicale  Plus d&amp;rsquo;information sur la documentation de la DMPC-API -
-Devcoop s&amp;rsquo;engage à développer d&amp;rsquo;autres volets du cadre d&amp;rsquo;intéropérabilité selon vos besoins, comme par exemple les volets suivants :  Volet VSM – Synthèse médicale Volet CSE – Certificats de Santé de l&amp;rsquo;Enfant Volet F-PRC – Fiches Patient à risque en cardiologie  </description>
+      <description>Partager des documents entre soignants au travers du DMP est un pré-requis. Mais partager ces mêmes données au travers de documents structurés, permet une meilleure interopérabilité entre les systèmes.
+La gestion de documents structurés au sein de notre DMPC-API, permet le partage de Compte Rendus Biologiques :  Volet CR-BIO – Compte-rendu d&amp;rsquo;examens de biologie médicale  Plus d&amp;rsquo;informations sur la documentation de la DMPC-APIDevcoop s&amp;rsquo;engage à développer d&amp;rsquo;autres volets du cadre d&amp;rsquo;intéropérabilité selon vos besoins, comme par exemple les volets suivants :  Volet VSM – Synthèse médicale Volet CSE – Certificats de Santé de l&amp;rsquo;Enfant Volet F-PRC – Fiches Patient à risque en cardiologie  Vous êtes intéressé par le développement d&amp;rsquo;un des documents structurés Contactez-nous</description>
     </item>
     
   </channel>

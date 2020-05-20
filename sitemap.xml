@@ -55,10 +55,6 @@
   </url>
   
   <url>
-    <loc>./expertises/docavenue/</loc>
-  </url>
-  
-  <url>
     <loc>./composants/documents-structures/</loc>
   </url>
   
@@ -84,6 +80,10 @@
   
   <url>
     <loc>./expertises/agfa/</loc>
+  </url>
+  
+  <url>
+    <loc>./expertises/docavenue/</loc>
   </url>
   
   <url>

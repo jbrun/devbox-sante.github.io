@@ -17,17 +17,8 @@
       
       <guid>./expertises/optimcare/</guid>
       <description>Optim’Care développe une plateforme unique, évolutive et sur-mesure intégrant différentes solutions de e-santé pour les patients transplantés et les professionnels de santé impliqués dans leur suivi.
-Nous avons été sollicité pour réaliser cette plateforme de santé qui est accessible via des applications mobiles et web.</description>
-    </item>
-    
-    <item>
-      <title>Docavenue</title>
-      <link>./expertises/docavenue/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>./expertises/docavenue/</guid>
-      <description>Avec Docavenue, Cegedim combine son savoir-faire dans les outils digitaux et son expertise de la santé pour proposer une plateforme de services médicaux. Elle connecte directement le patient à l’agenda du professionnel de santé choisi.
-Nous avons participez à la réalisation des applications web et mobile avec notamment la prise de rendez-vous, la téléconsultation, la gestion d&amp;rsquo;agenda et la recherche de praticien géolocalisé.</description>
+Nous avons été sollicité pour réaliser cette plateforme de santé qui est accessible via des applications mobiles et web.
+Connexion avec des objets connectés de santé.</description>
     </item>
     
     <item>
@@ -37,7 +28,16 @@ Nous avons participez à la réalisation des applications web et mobile avec not
       
       <guid>./expertises/agfa/</guid>
       <description>Réalisation d&amp;rsquo;une application mobile et web pour la prescription et l&amp;rsquo;administration de médicaments.
-Intégration d&amp;rsquo;une base médicamenteuse.</description>
+Intégration d&amp;rsquo;une base de données médicamenteuse.</description>
+    </item>
+    
+    <item>
+      <title>Prise de RDV en ligne</title>
+      <link>./expertises/docavenue/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>./expertises/docavenue/</guid>
+      <description>Nous avons participé à la réalisation d&amp;rsquo;applications web et mobile pour la prise de rendez-vous en ligne avec des professionnels de santé mais aussi la téléconsultation, la gestion d&amp;rsquo;agenda et la recherche de praticien géolocalisée.</description>
     </item>
     
     <item>
@@ -46,7 +46,8 @@ Intégration d&amp;rsquo;une base médicamenteuse.</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>./expertises/xdiet/</guid>
-      <description>Réalisation d&amp;rsquo;une application mobile de conseil et suivi en alimentation et diététique.</description>
+      <description>Nous avons réalisé une application mobile de conseil et suivi en alimentation mettant en œuvre quelques mécanismes de gamification.
+Cette application exploite une méthode innovante pour une alimentation équilibrée et sans carence, sans interdit ni frustration distinguant cinq catégories d&amp;rsquo;aliments.</description>
     </item>
     
   </channel>
