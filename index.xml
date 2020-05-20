@@ -16,7 +16,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>./composants/cps/</guid>
-      <description>La CPS-API proposée par DEVCOOP au travers d&amp;rsquo;une API Java ou REST, vous permet d&amp;rsquo;accéder à l&amp;rsquo;ensemble des possibilités de la carte CPS3.
+      <description>La CPS-API proposée par DEVCOOP au travers d&amp;rsquo;une API Java ou REST, permet d&amp;rsquo;accéder à l&amp;rsquo;ensemble des possibilités de la carte CPS3.
 Notamment :
  authentifier un utilisateur gérer les différents lecteurs de carte et cartes disponibles gérer l&#39;état des lecteurs (carte arrachée) accéder à l&amp;rsquo;ensemble des métadonnées de la carte CPS 3 telles que les données d&amp;rsquo;identification de la carte, du porteur de la carte et la liste des situations d&amp;rsquo;exercice.</description>
     </item>
@@ -27,10 +27,10 @@ Notamment :
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>./connecteurs/dmpc-api/</guid>
-      <description>La DMPC-API est un connecteur EAI permettant la connexion avec le DMP. Elle facilite aux éditeurs de logiciel de santé l&amp;rsquo;intéropérabilité avec le DMP.
-La force de cette API est dans la simplicité de sa mise en oeuvre, mais aussi dans les briques applicatives utilisées.
- Trois manières différentes d&amp;rsquo;intégrer la DMPC-API :
- Embedded : directement dans vos modules SpringBoot Java. ProxyWS : via des WebServices SOAP ProxyREST : via une API REST / JSON   Deux manières différentes de s&amp;rsquo;authentifier :</description>
+      <description>La DMPC-API est un connecteur EAI qui s&amp;rsquo;interface avec le DMP. Elle facilite aux éditeurs de logiciel de santé l&amp;rsquo;intéropérabilité avec le DMP.
+La force de cette API :
+ simplicité de sa mise en oeuvre utilisation des librairies référentes du marché (Apache CXF, Apache Santuario, SpringBoot).   Trois manières d&amp;rsquo;intégrer la DMPC-API :
+ Embedded : directement dans vos modules SpringBoot Java. ProxyWS : via des WebServices SOAP ProxyREST : via une API REST / JSON   Deux manières de s&amp;rsquo;authentifier :</description>
     </item>
     
     <item>
@@ -40,7 +40,7 @@ La force de cette API est dans la simplicité de sa mise en oeuvre, mais aussi d
       
       <guid>./expertises/optimcare/</guid>
       <description>Optim’Care développe une plateforme unique, évolutive et sur-mesure intégrant différentes solutions de e-santé pour les patients transplantés et les professionnels de santé impliqués dans leur suivi.
-Nous avons été sollicité pour réaliser cette plateforme de santé qui est accessible via des applications mobiles et web.
+Réalisation de la plateforme de santé accessible via des applications mobiles et webs.
 Connexion avec des objets connectés de santé.</description>
     </item>
     
@@ -59,10 +59,10 @@ Connexion avec des objets connectés de santé.</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>./composants/annuaire-sante/</guid>
-      <description>Rechercher un professionnel de santé par son nom, sa spécialité, son adresse mais aussi sa géolocalisation. La mise en place de cet annuaire peut être longue et fastidieuse.
-Nous vous proposons clé en main cet annuaire indexé accessible par une API REST/JSON.
-Cet annuaire géolocalisé intègre plusieurs sources de données, notamment :
- le Répertoire Partagé des Professionnels de Santé (RPPS) le Répertoire des établissements (FINESS) la base Adresse Nationale  Vous êtes intéressé par l&amp;rsquo;intégration de cet annuaire Contactez-nous</description>
+      <description>L&amp;rsquo;Annuaire Santé est un service qui permet la recherche d&amp;rsquo;un professionnel de santé par son nom, sa spécialité, son adresse mais aussi sa géolocalisation.
+Gagnez du temps ! Nous vous proposons clé en main cet annuaire indexé accessible par une API REST/JSON.
+Intégration de plusieurs sources de données :
+ le Répertoire Partagé des Professionnels de Santé (RPPS) le Répertoire des établissements (FINESS) la base Adresse Nationale  Intéressé par l&amp;rsquo;intégration de cet annuaire ?</description>
     </item>
     
     <item>
@@ -71,8 +71,9 @@ Cet annuaire géolocalisé intègre plusieurs sources de données, notamment :
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>./composants/sesam-vitale/</guid>
-      <description>Comme la CPS-API l&amp;rsquo;objectif de ce composant est de vous fournir une API java et REST/JSON, vous permettant d&amp;rsquo;accéder à l&amp;rsquo;ensemble des fonctionnalités de la carte vitale.
-Vous êtes intéressé par le développement de ce connecteur Contactez-nous</description>
+      <description>Comme la CPS-API, ce composant fournira une API Java et REST/JSON, permettant d&amp;rsquo;accéder à l&amp;rsquo;ensemble des fonctionnalités de la carte vitale.
+Intéressé par le développement de ce connecteur ?
+Contactez-nous</description>
     </item>
     
     <item>
@@ -81,8 +82,9 @@ Vous êtes intéressé par le développement de ce connecteur Contactez-nous</d
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>./composants/documents-structures/</guid>
-      <description>Partager des documents entre soignants au travers du DMP est un pré-requis. Mais partager ces mêmes données au travers de documents structurés, permet une meilleure interopérabilité entre les systèmes.
-La gestion de documents structurés au sein de notre DMPC-API, permet le partage de Compte Rendus Biologiques :  Volet CR-BIO – Compte-rendu d&amp;rsquo;examens de biologie médicale  Plus d&amp;rsquo;informations sur la documentation de la DMPC-APIDevcoop s&amp;rsquo;engage à développer d&amp;rsquo;autres volets du cadre d&amp;rsquo;intéropérabilité selon vos besoins, comme par exemple les volets suivants :  Volet VSM – Synthèse médicale Volet CSE – Certificats de Santé de l&amp;rsquo;Enfant Volet F-PRC – Fiches Patient à risque en cardiologie  Vous êtes intéressé par le développement d&amp;rsquo;un des documents structurés Contactez-nous</description>
+      <description>Partager des documents entre soignants au travers du DMP est un pré-requis.
+Partager ces mêmes données au travers de documents structurés permet une meilleure interopérabilité entre les systèmes.
+Exemple, partager les compte-rendu Biologiques grâce à la gestion de documents structurés par notre DMPC-API :  Volet CR-BIO – Compte-rendu d&amp;rsquo;examens de biologie médicale  Plus d&amp;rsquo;informations sur la documentation de la DMPC-APIDevcoop s&amp;rsquo;engage à développer d&amp;rsquo;autres volets du cadre d&amp;rsquo;intéropérabilité selon vos besoins :  Volet VSM – Synthèse médicale Volet CSE – Certificats de Santé de l&amp;rsquo;Enfant Volet F-PRC – Fiches Patient à risque en cardiologie &amp;hellip;  Intéressé par le développement d&amp;rsquo;un des documents structurés ?</description>
     </item>
     
     <item>
@@ -131,7 +133,7 @@ Intégration d&amp;rsquo;une base de données médicamenteuse.</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>./expertises/docavenue/</guid>
-      <description>Nous avons participé à la réalisation d&amp;rsquo;applications web et mobile pour la prise de rendez-vous en ligne avec des professionnels de santé mais aussi la téléconsultation, la gestion d&amp;rsquo;agenda et la recherche de praticien géolocalisée.</description>
+      <description>Réalisation d&amp;rsquo;applications webs et mobiles pour la prise de rendez-vous en ligne avec des professionnels de santé mais aussi la téléconsultation, la gestion d&amp;rsquo;agenda et la recherche de praticien géolocalisée.</description>
     </item>
     
     <item>
@@ -179,8 +181,8 @@ Intégration d&amp;rsquo;une base de données médicamenteuse.</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>./expertises/xdiet/</guid>
-      <description>Nous avons réalisé une application mobile de conseil et suivi en alimentation mettant en œuvre quelques mécanismes de gamification.
-Cette application exploite une méthode innovante pour une alimentation équilibrée et sans carence, sans interdit ni frustration distinguant cinq catégories d&amp;rsquo;aliments.</description>
+      <description>Cette application exploite une méthode innovante pour une alimentation équilibrée et sans carence, sans interdit ni frustration distinguant cinq catégories d&amp;rsquo;aliments.
+Réalisation d&amp;rsquo;une application mobile de conseil et suivi en alimentation mettant en œuvre quelques mécanismes de gamification.</description>
     </item>
     
   </channel>
