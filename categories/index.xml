@@ -2,56 +2,56 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on DevBox _santé</title>
-    <link>/categories/</link>
+    <link>www.devbox-sante.fr/categories/</link>
     <description>Recent content in Categories on DevBox _santé</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     
-	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="www.devbox-sante.fr/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>composant</title>
-      <link>/categories/composant/</link>
+      <link>www.devbox-sante.fr/categories/composant/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/categories/composant/</guid>
+      <guid>www.devbox-sante.fr/categories/composant/</guid>
       <description></description>
     </item>
     
     <item>
       <title>connecteur</title>
-      <link>/categories/connecteur/</link>
+      <link>www.devbox-sante.fr/categories/connecteur/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/categories/connecteur/</guid>
+      <guid>www.devbox-sante.fr/categories/connecteur/</guid>
       <description></description>
     </item>
     
     <item>
       <title>expertise</title>
-      <link>/categories/expertise/</link>
+      <link>www.devbox-sante.fr/categories/expertise/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/categories/expertise/</guid>
+      <guid>www.devbox-sante.fr/categories/expertise/</guid>
       <description></description>
     </item>
     
     <item>
       <title>reference</title>
-      <link>/categories/reference/</link>
+      <link>www.devbox-sante.fr/categories/reference/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/categories/reference/</guid>
+      <guid>www.devbox-sante.fr/categories/reference/</guid>
       <description></description>
     </item>
     
     <item>
       <title>testimonial</title>
-      <link>/categories/testimonial/</link>
+      <link>www.devbox-sante.fr/categories/testimonial/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/categories/testimonial/</guid>
+      <guid>www.devbox-sante.fr/categories/testimonial/</guid>
       <description></description>
     </item>
     
