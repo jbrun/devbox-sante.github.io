@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>composant on DevBox _santé</title>
-    <link>/categories/composant/</link>
+    <link>./categories/composant/</link>
     <description>Recent content in composant on DevBox _santé</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     
-	<atom:link href="/categories/composant/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="./categories/composant/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>CPS-API</title>
-      <link>/composants/cps/</link>
+      <link>./composants/cps/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/composants/cps/</guid>
+      <guid>./composants/cps/</guid>
       <description>La CPS-API proposée par DEVCOOP au travers d&amp;rsquo;une API Java ou REST, permet d&amp;rsquo;accéder à l&amp;rsquo;ensemble des possibilités de la carte CPS3.
 Notamment :
  authentifier un utilisateur gérer les différents lecteurs de carte et cartes disponibles gérer l&#39;état des lecteurs (carte arrachée) accéder à l&amp;rsquo;ensemble des métadonnées de la carte CPS 3 telles que les données d&amp;rsquo;identification de la carte, du porteur de la carte et la liste des situations d&amp;rsquo;exercice.</description>
@@ -23,10 +23,10 @@ Notamment :
     
     <item>
       <title>Annuaire Santé</title>
-      <link>/composants/annuaire-sante/</link>
+      <link>./composants/annuaire-sante/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/composants/annuaire-sante/</guid>
+      <guid>./composants/annuaire-sante/</guid>
       <description>L&amp;rsquo;Annuaire Santé est un service qui permet la recherche d&amp;rsquo;un professionnel de santé par son nom, sa spécialité, son adresse mais aussi sa géolocalisation.
 Gagnez du temps ! Nous vous proposons clé en main cet annuaire indexé accessible par une API REST/JSON.
 Intégration de plusieurs sources de données :
@@ -35,10 +35,10 @@ Intégration de plusieurs sources de données :
     
     <item>
       <title>API SESAM Vitale</title>
-      <link>/composants/sesam-vitale/</link>
+      <link>./composants/sesam-vitale/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/composants/sesam-vitale/</guid>
+      <guid>./composants/sesam-vitale/</guid>
       <description>Comme la CPS-API, ce composant fournira une API Java et REST/JSON, permettant d&amp;rsquo;accéder à l&amp;rsquo;ensemble des fonctionnalités de la carte vitale.
 Intéressé par le développement de ce connecteur ?
 Contactez-nous</description>
@@ -46,10 +46,10 @@ Contactez-nous</description>
     
     <item>
       <title>Documents structurés</title>
-      <link>/composants/documents-structures/</link>
+      <link>./composants/documents-structures/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/composants/documents-structures/</guid>
+      <guid>./composants/documents-structures/</guid>
       <description>Partager des documents entre soignants au travers du DMP est un pré-requis.
 Partager ces mêmes données au travers de documents structurés permet une meilleure interopérabilité entre les systèmes.
 Exemple, partager les compte-rendu Biologiques grâce à la gestion de documents structurés par notre DMPC-API :  Volet CR-BIO – Compte-rendu d&amp;rsquo;examens de biologie médicale  Plus d&amp;rsquo;informations sur la documentation de la DMPC-APIDevcoop s&amp;rsquo;engage à développer d&amp;rsquo;autres volets du cadre d&amp;rsquo;intéropérabilité selon vos besoins :  Volet VSM – Synthèse médicale Volet CSE – Certificats de Santé de l&amp;rsquo;Enfant Volet F-PRC – Fiches Patient à risque en cardiologie &amp;hellip;  Intéressé par le développement d&amp;rsquo;un des documents structurés ?</description>

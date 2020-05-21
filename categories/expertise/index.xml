@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>expertise on DevBox _santé</title>
-    <link>/categories/expertise/</link>
+    <link>./categories/expertise/</link>
     <description>Recent content in expertise on DevBox _santé</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     
-	<atom:link href="/categories/expertise/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="./categories/expertise/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Optim&#39;Care</title>
-      <link>/expertises/optimcare/</link>
+      <link>./expertises/optimcare/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/expertises/optimcare/</guid>
+      <guid>./expertises/optimcare/</guid>
       <description>Optim’Care développe une plateforme unique, évolutive et sur-mesure intégrant différentes solutions de e-santé pour les patients transplantés et les professionnels de santé impliqués dans leur suivi.
 Réalisation de la plateforme de santé accessible via des applications mobiles et webs.
 Intégration avec des objets connectés de santé.</description>
@@ -23,29 +23,29 @@ Intégration avec des objets connectés de santé.</description>
     
     <item>
       <title>Prescription et administration de médicaments</title>
-      <link>/expertises/agfa/</link>
+      <link>./expertises/agfa/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/expertises/agfa/</guid>
+      <guid>./expertises/agfa/</guid>
       <description>Réalisation d&amp;rsquo;une application mobile et web pour la prescription et l&amp;rsquo;administration de médicaments.
 Intégration d&amp;rsquo;une base de données médicamenteuse.</description>
     </item>
     
     <item>
       <title>Prise de RDV en ligne</title>
-      <link>/expertises/docavenue/</link>
+      <link>./expertises/docavenue/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/expertises/docavenue/</guid>
+      <guid>./expertises/docavenue/</guid>
       <description>Réalisation d&amp;rsquo;applications webs et mobiles pour la prise de rendez-vous en ligne avec des professionnels de santé mais aussi la téléconsultation, la gestion d&amp;rsquo;agenda et la recherche de praticien géolocalisée.</description>
     </item>
     
     <item>
       <title>XDiet</title>
-      <link>/expertises/xdiet/</link>
+      <link>./expertises/xdiet/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/expertises/xdiet/</guid>
+      <guid>./expertises/xdiet/</guid>
       <description>Cette application exploite une méthode innovante pour une alimentation équilibrée et sans carence, sans interdit ni frustration distinguant cinq catégories d&amp;rsquo;aliments.
 Réalisation d&amp;rsquo;une application mobile de conseil et suivi en alimentation mettant en œuvre quelques mécanismes de gamification.</description>
     </item>
